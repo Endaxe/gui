@@ -20,7 +20,7 @@
           <component id="aecde" class="javax.swing.JButton" binding="button1" default-binding="true">
             <constraints/>
             <properties>
-              <text value="Menu"/>
+              <text value="Spara"/>
             </properties>
           </component>
         </children>
@@ -53,7 +53,9 @@
         <children>
           <component id="8b1d0" class="javax.swing.JTextArea" binding="textArea1" default-binding="true">
             <constraints/>
-            <properties/>
+            <properties>
+              <font name="DialogInput" size="22" style="0"/>
+            </properties>
           </component>
         </children>
       </scrollpane>
